@@ -6,7 +6,7 @@ QA Automation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-*   🌍  I'm based in Chile
+*   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [leofernandez03@gmail.com](mailto:leofernandez03@gmail.com)
 *   🧠  I'm learning Playwright
 *   ### Skills 
